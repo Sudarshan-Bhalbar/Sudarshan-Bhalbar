@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next JS,TypeScript,TailwindCSS,Python,etc.**
 
-- 🤝 I’m looking for help with [E-commerce Project]([https://sudarshan-bhalbar.github.io/CODSOFT/Level_1_Task_2/src/index.html](https://sudarshan-bhalbar.github.io/CODSOFT/Level_1_Task_3/src/))
+- 🤝 I’m looking for help with [E-commerce Project](https://sudarshan-bhalbar.github.io/CODSOFT/Level_1_Task_3/src/)
 
 - 📫 How to reach me **sudarshan.bhalbar@gmail.com**
 
