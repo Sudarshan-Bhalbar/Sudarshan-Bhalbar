@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sudarshan Bhalbar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [E-commerce Project]( https://sudarshan-bhalbar.github.io/CODSOFT/Level_1_Task_2/src/index.html)
+- 🔭 I’m currently working on [E-commerce Project]( [https://sudarshan-bhalbar.github.io/CODSOFT/Level_1_Task_2/src/index.html](https://sudarshan-bhalbar.github.io/CODSOFT/Level_1_Task_3/src/))
 
 - 🌱 I’m currently learning **Next JS,TypeScript,TailwindCSS,Python,etc.**
 
-- 🤝 I’m looking for help with [E-commerce Project](https://sudarshan-bhalbar.github.io/CODSOFT/Level_1_Task_2/src/index.html)
+- 🤝 I’m looking for help with [E-commerce Project]([https://sudarshan-bhalbar.github.io/CODSOFT/Level_1_Task_2/src/index.html](https://sudarshan-bhalbar.github.io/CODSOFT/Level_1_Task_3/src/))
 
 - 📫 How to reach me **sudarshan.bhalbar@gmail.com**
 
